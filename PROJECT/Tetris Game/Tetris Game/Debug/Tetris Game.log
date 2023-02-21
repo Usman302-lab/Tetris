@@ -1,0 +1,12 @@
+﻿  I.cpp
+  L.cpp
+  Lb.cpp
+  Square.cpp
+  T.cpp
+  board.cpp
+C:\Users\sa\Desktop\Tetris Game\Tetris Game\board.cpp(137,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  z.cpp
+  za.cpp
+  Generating Code...
+  Tetris Game.vcxproj -> C:\Users\sa\Desktop\Tetris Game\Debug\Tetris Game.exe
